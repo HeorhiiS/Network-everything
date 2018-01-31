@@ -1,4 +1,5 @@
-##Useful IoT device:
+##Useful IoT device:##
+
 **link:** https://www.sherlock.bike/en/
 
 *This is a anti-theft device for your bike, wherever you live it will be useful.*
@@ -17,7 +18,8 @@
 
 
 
-##Useless IoT device:
+##Useless IoT device:##
+
 **link:** https://www.harimari.com/collections/guys/products/nokona-chocolate
 
 *Unlike the usual flip-flops those "smart ones" are connected to your phone via an app.*
