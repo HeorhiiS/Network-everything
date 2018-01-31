@@ -30,4 +30,4 @@
 
 *But no, this one dissapoints you by doing none of abovementioned* 
 
-*things and instead it showes you promotions and discounts from the shop which sells them.*
+*things and instead it showes you promotions and discounts from the shop which sells them. They also cost I mention they cost around $110?
