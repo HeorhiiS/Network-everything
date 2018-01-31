@@ -1,4 +1,4 @@
-##Useful IoT device:##
+## Useful IoT device:
 
 **link:** https://www.sherlock.bike/en/
 
@@ -14,11 +14,11 @@
 
 *Moreover in the vent of the theft the device can share a secret code with the police for tracking.* 
 
-*Tracking itself is live with 15 radius feet accuracy*
+*Tracking itself is live with 15 radius feet accuracy, and it is all connected to a simple app. *
 
 
 
-##Useless IoT device:##
+## Useless IoT device:
 
 **link:** https://www.harimari.com/collections/guys/products/nokona-chocolate
 
