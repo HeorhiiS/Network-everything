@@ -14,7 +14,7 @@
 
 *Moreover in the vent of the theft the device can share a secret code with the police for tracking.* 
 
-*Tracking itself is live with 15 radius feet accuracy, and it is all connected to a simple app. *
+*Tracking itself is live with 15 radius feet accuracy, and it is all connected to a simple app.*
 
 
 
