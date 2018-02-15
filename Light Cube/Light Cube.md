@@ -8,3 +8,12 @@ that tell the direction of rotation
 (RGB LED values are stored in 16 separate arrays)
 Pressing the button will cause the program
 to change values in all array along the side
+
+
+*Winner of CES 2018*
+
+
+*Best thing on a planet  ~ WIRED*
+ 
+ 
+*I would sell my house for this ~  Y Combinator*
